@@ -1,4 +1,4 @@
-## Project Description
+#StateTreeAI
 This project contains a basic artificial intelligence that uses state tree and perception component to interact with the environment.
 
 The state tree is used to manage the AI agent's behavior. The perception component is used to sense the environment and provide feedback to the AI agent.
